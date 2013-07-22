@@ -1,0 +1,23 @@
+.planetsContainer {
+  padding: 1em;
+  background-color: #612C0C;
+  border: 1px solid #CCC;
+  max-width: 655px;
+  color: black;
+}
+
+.planet {
+  background-color: #B9D42D;
+  padding: 0.25em;
+  border: 1px solid silver;
+  margin-bottom: 0.5em;
+  font-size: 0.75em;
+}
+
+.planet.rock {
+  background-color: #E36B23;
+}
+
+.liveExample input {
+  margin: 0 0.3em 0 1em;
+}

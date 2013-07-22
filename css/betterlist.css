@@ -1,0 +1,12 @@
+.betterlist {
+  margin: 10px;
+  padding: 1em;
+  background-color: #612C0C;
+  border: 1px solid #CCC;
+  max-width: 500px;
+}
+
+.betterlist-options {
+  width: 300px;
+  height: 200px;
+}
